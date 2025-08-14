@@ -137,6 +137,24 @@ const Login = () => {
                 <p>• maria@tamagochii.com (FUNCIONARIO)</p>
                 <p className="mt-2"><strong>Senha:</strong> 123456</p>
               </div>
+              <div className="text-xs space-y-1">
+                <p>• admin@tamagochii.com (ADMIN)</p>
+                <p>• joao@tamagochii.com (GERENTE)</p>
+                <p>• maria@tamagochii.com (FUNCIONARIO)</p>
+                <p className="mt-2"><strong>Senha:</strong> 123456</p>
+              </div>
+              <div className="text-xs space-y-1">
+                <p>• admin@tamagochii.com (ADMIN)</p>
+                <p>• joao@tamagochii.com (GERENTE)</p>
+                <p>• maria@tamagochii.com (FUNCIONARIO)</p>
+                <p className="mt-2"><strong>Senha:</strong> 123456</p>
+              </div>
+              <div className="text-xs space-y-1">
+                <p>• admin@tamagochii.com (ADMIN)</p>
+                <p>• joao@tamagochii.com (GERENTE)</p>
+                <p>• maria@tamagochii.com (FUNCIONARIO)</p>
+                <p className="mt-2"><strong>Senha:</strong> 123456</p>
+              </div>
             </div>
           </CardContent>
         </Card>
